@@ -11,3 +11,8 @@ function xiaobing()
     echo 'xiaobing';
 
 }
+function hubing($name)
+{
+    echo 'asdf';
+
+}
